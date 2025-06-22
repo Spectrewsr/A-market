@@ -1,4 +1,6 @@
-title: 复盘分析
-ordering:
-  - 2025
-  - 2026
+arrange:
+  - index.md
+  - daily
+  - analysisYozi
+
+collapse_single_pages: true
