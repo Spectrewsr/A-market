@@ -1,12 +1,13 @@
-site_name: 我的文档站
+site_name: A股复盘分析
+
 theme:
   name: material
   language: zh
   features:
     - navigation.tabs
+    - navigation.indexes
     - navigation.top
-nav:
-  - 首页: index.md
-  - 关于: about.md
-  - 指南:
-      - 入门: guide/intro.md
+
+plugins:
+  - search
+  - awesome-pages
