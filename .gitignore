@@ -1,2 +1,3 @@
 # 忽略整个 mkdocs-toolchain 目录
 mkdocs-toolchain/
+site/
