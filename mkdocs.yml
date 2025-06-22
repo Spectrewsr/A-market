@@ -1,6 +1,5 @@
 site_name: A股复盘分析
 site_url: https://Spectrewsr.github.io/A-market/
-use_directory_urls: true
 
 theme:
   name: material
