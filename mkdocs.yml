@@ -1,13 +1,22 @@
 site_name: A股复盘分析
 site_url: https://Spectrewsr.github.io/A-market/
+repo_name: Spectrewsr/A-market
+repo_url: https://github.com/Spectrewsr/A-market/
+edit_uri: tree/main/docs
+site_description: Spectrewsr and BottleFish's A股复盘分析
 
 theme:
   name: material
   language: zh
+  icon:
+    logo: material/finance
   features:
     - navigation.tabs
     - navigation.indexes
     - navigation.top
+  font: false
+  palette:
+    - scheme: default
 
 markdown_extensions:
   - toc:
@@ -48,6 +57,9 @@ validation:
     not_found: info
     absolute_links: info
     unrecognized_links: info
+
+extra_css:
+  - css/custom.css
 
 plugins:
   - search
