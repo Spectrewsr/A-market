@@ -11,6 +11,8 @@ theme:
   icon:
     logo: material/finance
   features:
+    - content.code.annotate
+    - navigation.tracking
     - navigation.tabs
     - navigation.indexes
     - navigation.top
