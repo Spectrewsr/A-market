@@ -1,3 +1,3 @@
 ## A-Market
 
-**BottleFish** and **Spectre** A-market Review and Analysis
+A-market Review and Analysis
