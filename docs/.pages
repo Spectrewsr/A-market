@@ -2,5 +2,6 @@ arrange:
   - index.md
   - daily
   - analysisYozi
+  - analysisBankuai
 
 collapse_single_pages: true
