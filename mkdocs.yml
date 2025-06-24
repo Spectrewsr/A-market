@@ -24,7 +24,7 @@ theme:
 markdown_extensions:
   - toc:
       permalink: true
-      toc_depth: 2
+      toc_depth: 4
   - meta
   - def_list
   - attr_list
