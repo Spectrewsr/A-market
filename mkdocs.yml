@@ -8,6 +8,7 @@ site_description: Spectrewsr and BottleFish's A股复盘分析
 theme:
   name: material
   language: zh
+  custom_dir: overrides
   icon:
     logo: material/finance
   features:
