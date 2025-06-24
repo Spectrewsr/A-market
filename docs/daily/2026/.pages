@@ -1,15 +1,3 @@
 title: Year 2026
-arrange:
-    # - January
-    # - February
-    # - March
-    # - April
-    # - May
-    # - June
-    # - July
-    # - August
-    # - September
-    # - October
-    # - November
-    # - December
+ordering: ascend
 collapse_single_pages: true
