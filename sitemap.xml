@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://stock.bottlefish.cn/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <lastmod>2025-06-25</lastmod>
     </url>
     <url>
          <loc>https://stock.bottlefish.cn/analysisBankuai/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <lastmod>2025-06-25</lastmod>
+    </url>
+    <url>
+         <loc>https://stock.bottlefish.cn/analysisBankuai/%E5%86%9B%E5%B7%A5/jungong/</loc>
+         <lastmod>2025-06-25</lastmod>
     </url>
     <url>
          <loc>https://stock.bottlefish.cn/analysisYozi/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <lastmod>2025-06-25</lastmod>
     </url>
     <url>
          <loc>https://stock.bottlefish.cn/daily/2025/06/06-22/06-22/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <lastmod>2025-06-25</lastmod>
     </url>
     <url>
          <loc>https://stock.bottlefish.cn/daily/2025/06/06-23/06-23/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <lastmod>2025-06-25</lastmod>
     </url>
     <url>
          <loc>https://stock.bottlefish.cn/daily/2025/06/06-24/06-24/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <lastmod>2025-06-25</lastmod>
     </url>
     <url>
          <loc>https://stock.bottlefish.cn/daily/2026/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <lastmod>2025-06-25</lastmod>
     </url>
 </urlset>
