@@ -1,0 +1,27 @@
+[33mf0c44fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: commit: 260630 spectre
+[33md552494[m HEAD@{1}: commit: 添加军工板块
+[33m60d06ce[m HEAD@{2}: commit: 添加军工板块
+[33me9dbeec[m HEAD@{3}: pull origin main: Fast-forward
+[33me5a11a5[m HEAD@{4}: commit: 250624 spectre
+[33m2202bd8[m HEAD@{5}: pull origin main: Merge made by the 'ort' strategy.
+[33mafa52e7[m HEAD@{6}: commit: 250624 spectre
+[33m5b06757[m HEAD@{7}: commit: 250623 spectre
+[33mc0f0be2[m HEAD@{8}: commit: 250623 spectre
+[33mc22229c[m HEAD@{9}: commit: 250623 spectre
+[33m9110add[m HEAD@{10}: pull origin main: Fast-forward
+[33m7781af5[m HEAD@{11}: commit: 250623 spectre
+[33m9dff92a[m HEAD@{12}: commit: 修改界面样式
+[33mf6ce1fc[m HEAD@{13}: pull origin main: Fast-forward
+[33ma6ec651[m HEAD@{14}: pull origin main: Fast-forward
+[33m660360c[m HEAD@{15}: commit: 250622复盘笔记
+[33m3c944c0[m HEAD@{16}: reset: moving to origin/main
+[33mdb8fbf5[m HEAD@{17}: commit: 清理构建目录并添加 .gitignore
+[33m659e832[m HEAD@{18}: commit: 忽略 MkDocs 构建目录 site/
+[33mf14833f[m HEAD@{19}: rebase (abort): returning to refs/heads/main
+[33m3c944c0[m HEAD@{20}: pull origin main --rebase (start): checkout 3c944c0f040eb70a5565538083e1b01664602240
+[33mf14833f[m HEAD@{21}: commit: 忽略 MkDocs 构建目录 site/
+[33me86c201[m HEAD@{22}: commit: 250623合并分支
+[33m516c2a0[m HEAD@{23}: commit: 初步模型
+[33m8976769[m HEAD@{24}: Branch: renamed refs/heads/master to refs/heads/main
+[33m8976769[m HEAD@{26}: commit: Add MkDocs project structure
+[33m8a6268d[m HEAD@{27}: initial pull
